@@ -1,0 +1,67 @@
+
+	.content {
+		width: 70%;
+		margin: 15px 15%;
+	}
+	
+	.menu,
+	.controls {
+		width: 100%;
+		height: 30px;		
+		margin: 15px 0px;
+		
+	}
+	
+	.menu a {
+		float: right;
+		padding: 15px;
+	}
+	
+	.controls a {
+		float: left;
+		padding-left: 15px;
+	}
+	
+	.controls button {
+		float: left;
+		margin-left: 15px;
+	}
+	
+	.tbl {
+		width: 100%;
+		border: 1px solid #000;
+	}
+	
+	.tbl th {
+		
+	}
+	
+	.tbl th,
+	.tbl td {
+		border: 1px solid #000;
+		padding: 5px;
+	}
+	
+	.form {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	
+	.form-label {
+		display: inline-block;
+		width: 25%;
+	}
+	
+	.form-input {
+		display: inline-block;
+		width: 50%;
+	}
+	
+	.form-input input {
+		width: 100%;
+		height: 15px;
+	}
+	
+	
+	
+	
